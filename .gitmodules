@@ -1,0 +1,3 @@
+[submodule "Foo/UiElements"]
+	path = Foo/UiElements
+	url = https://github.com/benjamin-zach/UiElements
